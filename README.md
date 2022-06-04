@@ -1,1 +1,1 @@
-# CUSP_ADS_2022
+# applied data science (spring 2022)
